@@ -1,5 +1,6 @@
 # Miembros
 
+* The cap refused
 * Black panther
 * Black Widow
 * Capitán Marvel
